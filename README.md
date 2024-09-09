@@ -16,7 +16,7 @@ Nand2Tetris is an exciting course where you start with basic logic gates and end
 Here's a list of the projects with checkboxes to track my progress:
 
 - [x] **Boolean Function and Logic** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project01)
-- [ ] **Boolean Arithmetic and ALU** - [Link](#)
+- [x] **Boolean Arithmetic and ALU** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project02)
 - [ ] **Memory** - [Link](#)
 - [ ] **Machine Language Programming** - [Link](#)
 - [ ] **Computer Architecture** - [Link](#)
@@ -29,8 +29,8 @@ More to come... 🚧 (PART - 2)
 I update my progress regularly:
 
 - [x] **Week 1**: Boolean Logic .
-- [ ] **Week 2**: Boolean Arithmetic and Built the ALU 
-- [ ] **Week 3**: Memory
+- [x] **Week 2**: Boolean Arithmetic and Built the ALU 
+- [x] **Week 3**: Memory
 - [ ] **Week 4**: Machine Language
 - [ ] **Week 5**: Computer Architecture
 - [ ] **Week 6**: Assembler
