@@ -17,10 +17,10 @@ Here's a list of the projects with checkboxes to track my progress:
 
 - [x] **Boolean Function and Logic** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project01)
 - [x] **Boolean Arithmetic and ALU** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project02)
-- [ ] **Memory** - [Link](#)
-- [ ] **Machine Language Programming** - [Link](#)
+- [x] **Memory** -  [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project03)
+- [x] **Machine Language Programming** -  [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project04)
 - [ ] **Computer Architecture** - [Link](#)
-- [ ] **Assembler ** - [Link](#)
+- [ ] **Assembler** - [Link](#)
 
 More to come... 🚧 (PART - 2)
 
@@ -31,8 +31,8 @@ I update my progress regularly:
 - [x] **Week 1**: Boolean Logic .
 - [x] **Week 2**: Boolean Arithmetic and Built the ALU 
 - [x] **Week 3**: Memory
-- [ ] **Week 4**: Machine Language
-- [ ] **Week 5**: Computer Architecture
+- [x] **Week 4**: Machine Language
+- [x] **Week 5**: Computer Architecture
 - [ ] **Week 6**: Assembler
 
 ## 🎯 Future Goals
