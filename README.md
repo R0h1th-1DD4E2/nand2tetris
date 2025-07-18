@@ -19,8 +19,8 @@ Here's a list of the projects with checkboxes to track my progress:
 - [x] **Boolean Arithmetic and ALU** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project02)
 - [x] **Memory** -  [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project03)
 - [x] **Machine Language Programming** -  [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project04)
-- [ ] **Computer Architecture** - [Link](#)
-- [ ] **Assembler** - [Link](#)
+- [x] **Computer Architecture** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project05)
+- [x] **Assembler** - [Link](https://github.com/R0h1th-1DD4E2/nand2tetris/tree/main/Project/Project06)
 
 More to come... 🚧 (PART - 2)
 
@@ -33,10 +33,9 @@ I update my progress regularly:
 - [x] **Week 3**: Memory
 - [x] **Week 4**: Machine Language
 - [x] **Week 5**: Computer Architecture
-- [ ] **Week 6**: Assembler
+- [x] **Week 6**: Assembler
 
 ## 🎯 Future Goals
 
 - Dive deeper into computer architecture.
 - Apply what I've learned to microcontroller projects.
-- Contribute to open-source embedded systems projects.
